@@ -1,0 +1,43 @@
+.row{
+    width: 60%;;
+    height: 300px;
+    baground-color :cornflowerblue;
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 22%;
+    position: absolute;
+}
+.col-1{
+
+    baground-color: crimson; 
+}
+.col-2{
+    baground-color :darkblue;
+    left: 23%;
+}
+.col-3{
+    baground-color: darkcyan;
+    left : 46%
+}
+.col-4{
+    baground-color: green;
+    left:69;
+}
+.fixed{
+    width:100px;
+    height:100px;
+    baground-color:crimson;
+    posiion:fixed;
+    left:70%;
+    top:50%;
+}
+.sticky{
+    width:100px;
+    height:100px;
+    baground-color:blue;
+    position:sticky;
+
+    
+}

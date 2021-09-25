@@ -1,0 +1,18 @@
+.git{
+    position: relative;
+    left: 50%;
+}
+.sign{
+    color:black;
+    position:relative;
+    left:-2%;
+}
+.user{
+    height:335px;
+    background-color: lightgray;
+    width: 35%;
+    position:fixed;
+    left:35%;
+    background-blend-mode: screen;
+    
+}

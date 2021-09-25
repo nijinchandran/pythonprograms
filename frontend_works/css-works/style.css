@@ -1,0 +1,22 @@
+
+/* tagname or id or class name */
+
+
+
+
+h1{
+    color:red;
+}
+
+h2{
+    color:rgb(200,0,0)
+}
+#htwo{
+    color:indigo;
+}
+#second{
+    color:tomato;
+}
+.third{
+    color:greenyellow;
+}
